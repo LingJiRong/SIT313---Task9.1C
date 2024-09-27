@@ -1,0 +1,25 @@
+.featured-articles {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .featured-articles h2 {
+    margin-bottom: 20px;
+  }
+  
+  .article-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .article-card {
+    width: 300px;
+    margin: 10px;
+  }
+  
+  .article-card .authors {
+    font-style: italic;
+    color: #555;
+  }
+  
